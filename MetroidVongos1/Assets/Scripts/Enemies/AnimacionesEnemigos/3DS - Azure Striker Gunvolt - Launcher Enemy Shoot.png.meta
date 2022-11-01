@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: 60280938da800444fab50b018ee37470
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 211
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26b9bd860862047a7f99f1c2de05f8
+      internalID: -1189912460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 211
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c97ef5b350304e982dd9454663f0f
+      internalID: 591639347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 211
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df055593d3c224aa8d3747c979d2ac
+      internalID: -359850328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 211
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0802d4ca93d24e8873fb7f42340b4
+      internalID: -327946001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 211
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f9f4c23a79da40a7e02caef702c3e
+      internalID: -454823540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1d4a8e236cf0048a798413b27d2c47
+      internalID: 2096284098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 126
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9cd36591ef11c40a8d5019e4a1fa50
+      internalID: 761796489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 126
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00bf38a0138a134ca71b035ecf0d42e
+      internalID: 1120333565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 126
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3052ed225d4384f439d9db16bf09de10
+      internalID: 1506446078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 126
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176405eb5b2d6c4ca4b74028c5c50b0
+      internalID: -405555022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 126
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b349b556b2459429c8aeb2c0602e36
+      internalID: 1844882239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 126
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e466a3656683340bb3502c4837a61d
+      internalID: 434744106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd732e5cc27a24ba749f9f1af1dabf
+      internalID: -694043675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd996d041a9214f865a96c683fdf0f
+      internalID: 1488465461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 49
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a84c536ef7bf542841db439726d353
+      internalID: 477392565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0173858daeed46b30fcabeb6863de
+      internalID: 452439186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 46
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c5aa627244d3459790b3d4f84ee48
+      internalID: -689000199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa8cee12878c24a8bd5e69e9aeeaa0
+      internalID: 1278631063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc769605bf240147ad623f5d083ba09
+      internalID: -582003584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a223f39d8205304eb19502e2e4a872c
+      internalID: -1105861485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561c69f8462c2f74ca71466c0c3b6dde
+      internalID: 1933304585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 20
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb76e0029b8dc7419448523c5f734d1
+      internalID: 1797220580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4af9a535e09d429c101b7ce672fa2
+      internalID: 575040442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee60f60d8d3134e8a552e87fe93c4a
+      internalID: -1079979421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 6
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03242723d60b95f479487bd0718c161b
+      internalID: 1184827009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac636520e360fa4ab6b6ac50372a16e
+      internalID: 1714393090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26616f5b8b444f84da4e6477f0acd8e7
+      internalID: -393228284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c42b874e0c41243aed29153a56af6b
+      internalID: -1880784975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_7: 1120333565
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_18: -582003584
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_20: 1933304585
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_9: -405555022
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_16: -689000199
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_27: -1880784975
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_26: -393228284
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_14: 477392565
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_15: 452439186
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_11: 434744106
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_22: 575040442
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_0: -1189912460
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_5: 2096284098
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_24: 1184827009
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_3: -327946001
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_6: 761796489
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_4: -454823540
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_2: -359850328
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_23: -1079979421
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_19: -1105861485
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_8: 1506446078
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_12: -694043675
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_10: 1844882239
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_25: 1714393090
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_13: 1488465461
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_21: 1797220580
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_17: 1278631063
+      3DS - Azure Striker Gunvolt - Launcher Enemy Shoot_1: 591639347
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

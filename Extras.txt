@@ -1,0 +1,3 @@
+- Animations Frame by Frame
+- Ús avançat d’Effectors -> BlackHole Prefab
+- Physics Material 2D -> Paredes y player
